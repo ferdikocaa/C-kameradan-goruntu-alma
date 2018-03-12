@@ -1,0 +1,9 @@
+C:\Users\ferdikocaa\Desktop\GoruntuIsleme-ferdikocaa\GoruntuIsleme-ferdikocaa\bin\Debug\GoruntuIsleme-ferdikocaa.exe.config
+C:\Users\ferdikocaa\Desktop\GoruntuIsleme-ferdikocaa\GoruntuIsleme-ferdikocaa\bin\Debug\GoruntuIsleme-ferdikocaa.exe
+C:\Users\ferdikocaa\Desktop\GoruntuIsleme-ferdikocaa\GoruntuIsleme-ferdikocaa\bin\Debug\GoruntuIsleme-ferdikocaa.pdb
+C:\Users\ferdikocaa\Desktop\GoruntuIsleme-ferdikocaa\GoruntuIsleme-ferdikocaa\obj\Debug\GoruntuIsleme-ferdikocaa.csprojResolveAssemblyReference.cache
+C:\Users\ferdikocaa\Desktop\GoruntuIsleme-ferdikocaa\GoruntuIsleme-ferdikocaa\obj\Debug\GoruntuIsleme_ferdikocaa.Form1.resources
+C:\Users\ferdikocaa\Desktop\GoruntuIsleme-ferdikocaa\GoruntuIsleme-ferdikocaa\obj\Debug\GoruntuIsleme_ferdikocaa.Properties.Resources.resources
+C:\Users\ferdikocaa\Desktop\GoruntuIsleme-ferdikocaa\GoruntuIsleme-ferdikocaa\obj\Debug\GoruntuIsleme-ferdikocaa.csproj.GenerateResource.Cache
+C:\Users\ferdikocaa\Desktop\GoruntuIsleme-ferdikocaa\GoruntuIsleme-ferdikocaa\obj\Debug\GoruntuIsleme-ferdikocaa.exe
+C:\Users\ferdikocaa\Desktop\GoruntuIsleme-ferdikocaa\GoruntuIsleme-ferdikocaa\obj\Debug\GoruntuIsleme-ferdikocaa.pdb
